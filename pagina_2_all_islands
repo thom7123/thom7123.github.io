@@ -3,10 +3,42 @@
 <meta charset="UTF-8">
 <head>
 <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:transparant;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+<style>
 div.a {
   text-align: center;
 }
 </style>
+<ul>
+  <li><a href=""style="color:rgb(139,0,0); font-size:30px">How to play</a></li>
+  <li><a href=""style="color:rgb(139,0,0); font-size:30px">All the dinosaurs</a></li>
+  <li><a href="" style="color:rgb(139,0,0); font-size:30px">All the islands</a></li>
+  <li><a href=""style="color:rgb(139,0,0); font-size:30px">pagina 4</a></li>
+  <li><a herf=""style="color:rgb(139,0,0); font-size:30px">pagina 5</a></li>
+  </ul>
 <div class="a">
   <title>All the islands</title>
 </style>
@@ -23,6 +55,6 @@ img {
 </style>
 <img src="https://www.anuflora.com/game/wp-content/uploads/game/2019/01/island-navigation.png" alt="jurassic world all islands" style="width:50%;">
 
-<h2 style="color:rgb(65, 66, 170); font-size:35px; text-align:left">first island</h2>
+<h2 style="color:rgb(65, 66, 170); font-size:40px; text-align:center">first island</h2>
 <h3 style="color:rgb(65, 66, 170); font-size:30px; text-align:left">Isla Matanceros
 <img src="https://static.wikia.nocookie.net/jurassicworld-evolution/images/d/d4/IMatenceros.png/revision/latest?cb=20200115190100" alt="first island" style="width:50%">
