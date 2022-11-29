@@ -33,11 +33,11 @@ div.a {
 }
 </style>
 <ul>
-  <li><a href="index.html"style="color:rgb(139,0,0); font-size:30px">Main Menu</a></li>
+  <li><a href=""style="color:rgb(139,0,0); font-size:30px">Main Menu</a></li>
   <li><a href=""style="color:rgb(139,0,0); font-size:30px">How to play</a></li>
-  <li><a href=""style="color:rgb(139,0,0); font-size:30px">All the dinosaurs</a></li>
   <li><a href=""style="color:rgb(139,0,0); font-size:30px">All the islands</a></li>
-  <li><a herf=""style="color:rgb(139,0,0); font-size:30px">pagina 4</a></li>
+  <li><a href=""style="color:rgb(139,0,0); font-size:30px">Carnivores</a></li>
+  <li><a herf=""style="color:rgb(139,0,0); font-size:30px">Herbivores</a></li>
   </ul>
 <div class="a">
   <title>All the islands</title>
@@ -58,3 +58,4 @@ img {
 <h2 style="color:rgb(65, 66, 170); font-size:40px; text-align:center">first island</h2>
 <h3 style="color:rgb(65, 66, 170); font-size:30px; text-align:left">Isla Matanceros
 <img src="https://static.wikia.nocookie.net/jurassicworld-evolution/images/d/d4/IMatenceros.png/revision/latest?cb=20200115190100" alt="first island" style="width:50%">
+</body>
